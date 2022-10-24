@@ -88,7 +88,7 @@ public class Baralho {
 	}
 
 	/**
-	 * 
+	 *
 	 * @param c
 	 */
 	public void receberCarta(Carta c) {
@@ -105,7 +105,7 @@ public class Baralho {
 	}
 	
 	/**
-	 * 
+	 *
 	 * @return a última carta do baralho
 	 */
 	public Carta ultimaCarta() { // para verificar a última carta
