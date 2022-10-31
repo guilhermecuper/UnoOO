@@ -141,7 +141,7 @@ public class Baralho {
 			LOGGER.debug("Cartas retornadas: {}", cartas);
 		}
 
-		return cartas;
+		return this.cartas;
 	}
 
 	/**
